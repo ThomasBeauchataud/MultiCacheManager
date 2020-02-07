@@ -1,7 +1,5 @@
 # MultiCacheManager
 
-*Ce document est la propriété de BougyuesTelecom Entreprise et est destiné au portail B2B*
-
 *Ce document décrit le fonctionnement du projet MultiCacheManager ainsi que des indications d'utilisations et ses mises à jour / évolutions*
 
 *Created the 26/07/2019 by Thomas Beauchataud*
